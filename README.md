@@ -1,8 +1,8 @@
 # Writing-a-poem
 I will be writing a poem about colours
-Red 
-Blue 
-Green 
-Pink 
-Yellow 
+<r>Red<r/>  
+<bl>Blue<bl/> 
+<gr>Green<gr/> 
+<pi>Pink<pi/> 
+<yl>Yellow<yl/> 
 Black 
